@@ -1,4 +1,4 @@
-# stock_prediction
+# Stock Market Prediction
 
 ### Methodoloy
 
