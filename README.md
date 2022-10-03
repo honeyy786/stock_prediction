@@ -11,7 +11,22 @@
 <img width="360" alt="Screenshot 2022-07-13 at 5 40 16 PM" src="https://user-images.githubusercontent.com/107470535/178730433-6307d5a7-5e3e-43be-bc71-9757e3ef1635.png">
 
 
+###Steps:-
+If Loss/Remain Same->0
+If Profit -> 1
 
+Read Data->Train & Test-> Remove Punctuation-> Rename Column Names-> Make all words to lower case
+
+In NLP consider all headings as a paragraph
+
+Apply CountVectorizer-> It takes the sentense and convert it into a vector of features-> Implement Bags of Vectors
+
+Predict for Test Data
+
+Now we will import library to check accuracy
+classification_report-> Recall, show precision
+classification_matrix-> Tabular summary
+accuracy_report-> Ratio-> Number of correctly classified cases to total cases classified
 
 
 
