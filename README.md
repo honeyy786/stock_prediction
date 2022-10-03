@@ -12,18 +12,18 @@
 
 
 ### Steps:
-1)If Loss/Remain Same->0  
+1) If Loss/Remain Same->0  
   If Profit -> 1
 
-2)Read Data->Train & Test-> Remove Punctuation-> Rename Column Names-> Make all words to lower case
+2) Read Data->Train & Test-> Remove Punctuation-> Rename Column Names-> Make all words to lower case
 
-3)In NLP consider all headings as a paragraph
+3) In NLP consider all headings as a paragraph
 
-4)Apply CountVectorizer-> It takes the sentense and convert it into a vector of features-> Implement Bags of Vectors
+4) Apply CountVectorizer-> It takes the sentense and convert it into a vector of features-> Implement Bags of Vectors
 
-5)Predict for Test Data
+5) Predict for Test Data
 
-6)Now we will import library to check accuracy
+6) Now we will import library to check accuracy
 
 classification_report-> Recall, show precision
 
