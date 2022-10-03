@@ -31,7 +31,10 @@
 
     accuracy_report-> Ratio-> Number of correctly classified cases to total cases classified
 
-
-
-
+### TF-IDF
+    Term Frequency - Inverse Document Frequency
+    Method which give numeric weightage of words which reflect how important the particular word it is.
+    
+### Bag of Vectors
+    Methd to extract features from text to document
 
