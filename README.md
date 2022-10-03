@@ -25,11 +25,11 @@
 
 6) Now we will import library to check accuracy
 
-classification_report-> Recall, show precision
+  classification_report-> Recall, show precision
 
-classification_matrix-> Tabular summary
+  classification_matrix-> Tabular summary
 
-accuracy_report-> Ratio-> Number of correctly classified cases to total cases classified
+  accuracy_report-> Ratio-> Number of correctly classified cases to total cases classified
 
 
 
