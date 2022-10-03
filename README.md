@@ -24,6 +24,7 @@ Apply CountVectorizer-> It takes the sentense and convert it into a vector of fe
 Predict for Test Data
 
 Now we will import library to check accuracy
+
 classification_report-> Recall, show precision
 classification_matrix-> Tabular summary
 accuracy_report-> Ratio-> Number of correctly classified cases to total cases classified
