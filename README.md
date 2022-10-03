@@ -11,7 +11,7 @@
 <img width="360" alt="Screenshot 2022-07-13 at 5 40 16 PM" src="https://user-images.githubusercontent.com/107470535/178730433-6307d5a7-5e3e-43be-bc71-9757e3ef1635.png">
 
 
-###Steps:-
+### Steps:
 If Loss/Remain Same->0
 If Profit -> 1
 
